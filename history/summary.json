@@ -10,11 +10,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 614,
-    "timeDay": 367,
-    "timeWeek": 460,
-    "timeMonth": 620,
-    "timeYear": 614,
+    "time": 615,
+    "timeDay": 623,
+    "timeWeek": 496,
+    "timeMonth": 622,
+    "timeYear": 615,
     "dailyMinutesDown": {}
   },
   {
@@ -28,11 +28,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 543,
-    "timeDay": 422,
-    "timeWeek": 503,
-    "timeMonth": 551,
-    "timeYear": 543,
+    "time": 550,
+    "timeDay": 847,
+    "timeWeek": 558,
+    "timeMonth": 565,
+    "timeYear": 550,
     "dailyMinutesDown": {}
   },
   {
@@ -41,18 +41,18 @@
     "icon": "https://icons.duckduckgo.com/ip3/palata.nl.ico",
     "slug": "palata-nl",
     "status": "up",
-    "uptime": "99.93%",
-    "uptimeDay": "97.38%",
-    "uptimeWeek": "99.63%",
-    "uptimeMonth": "99.91%",
-    "uptimeYear": "99.93%",
-    "time": 991,
-    "timeDay": 683,
-    "timeWeek": 936,
-    "timeMonth": 1050,
-    "timeYear": 991,
+    "uptime": "99.96%",
+    "uptimeDay": "98.34%",
+    "uptimeWeek": "99.76%",
+    "uptimeMonth": "99.95%",
+    "uptimeYear": "99.96%",
+    "time": 989,
+    "timeDay": 778,
+    "timeWeek": 704,
+    "timeMonth": 1058,
+    "timeYear": 989,
     "dailyMinutesDown": {
-      "2024-10-14": 38
+      "2024-10-14": 24
     }
   }
 ]
