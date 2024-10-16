@@ -40,7 +40,7 @@
     "url": "https://palata.nl",
     "icon": "https://icons.duckduckgo.com/ip3/palata.nl.ico",
     "slug": "palata-nl",
-    "status": "up",
+    "status": "down",
     "uptime": "99.76%",
     "uptimeDay": "92.13%",
     "uptimeWeek": "98.64%",
@@ -52,6 +52,7 @@
     "timeMonth": 997,
     "timeYear": 941,
     "dailyMinutesDown": {
+      "2024-10-16": 0,
       "2024-10-15": 114,
       "2024-10-14": 24
     }
