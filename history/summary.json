@@ -4,9 +4,9 @@
     "url": "https://s04.cpu.nl",
     "icon": "https://icons.duckduckgo.com/ip3/s04.cpu.nl.ico",
     "slug": "s04",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.99%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
@@ -15,7 +15,9 @@
     "timeWeek": 569,
     "timeMonth": 577,
     "timeYear": 603,
-    "dailyMinutesDown": {}
+    "dailyMinutesDown": {
+      "2024-10-23": 0
+    }
   },
   {
     "name": "ClassaNova",
@@ -41,14 +43,14 @@
     "icon": "https://icons.duckduckgo.com/ip3/palata.nl.ico",
     "slug": "palata-nl",
     "status": "up",
-    "uptime": "99.76%",
+    "uptime": "99.77%",
     "uptimeDay": "100.00%",
-    "uptimeWeek": "99.80%",
+    "uptimeWeek": "100.00%",
     "uptimeMonth": "99.64%",
-    "uptimeYear": "99.76%",
+    "uptimeYear": "99.77%",
     "time": 907,
     "timeDay": 570,
-    "timeWeek": 722,
+    "timeWeek": 746,
     "timeMonth": 969,
     "timeYear": 907,
     "dailyMinutesDown": {
