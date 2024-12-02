@@ -4,7 +4,7 @@
     "url": "https://s04.cpu.nl",
     "icon": "https://icons.duckduckgo.com/ip3/s04.cpu.nl.ico",
     "slug": "s04",
-    "status": "up",
+    "status": "down",
     "uptime": "99.97%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
@@ -16,6 +16,7 @@
     "timeMonth": 569,
     "timeYear": 592,
     "dailyMinutesDown": {
+      "2024-12-02": 0,
       "2024-11-24": 23,
       "2024-11-03": 17
     }
