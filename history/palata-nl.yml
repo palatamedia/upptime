@@ -1,7 +1,7 @@
 url: https://palata.nl
-status: up
-code: 200
-responseTime: 672
-lastUpdated: 2024-12-22T23:15:41.321Z
+status: down
+code: 503
+responseTime: 10502
+lastUpdated: 2024-12-22T23:26:25.041Z
 startTime: 2024-09-06T14:04:32.123Z
 generator: Upptime <https://github.com/upptime/upptime>
